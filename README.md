@@ -203,9 +203,9 @@ If you're interested in contributing, please:
 - **Data Lost**: Check if localStorage is enabled in your browser
 
 ### Getting Help
-- 📖 Check our [Wiki](https://github.com/jkh2/treetrack-pro/wiki) for detailed guides
-- 🐛 Report bugs via [GitHub Issues](https://github.com/jkh2/treetrack-pro/issues)
-- 💬 Join discussions in [GitHub Discussions](https://github.com/jkh2/treetrack-pro/discussions)
+- 📖 Check our [Wiki](https://github.com/jkh2/treetrack/wiki) for detailed guides
+- 🐛 Report bugs via [GitHub Issues](https://github.com/jkh2/treetrack/issues)
+- 💬 Join discussions in [GitHub Discussions](https://github.com/jkh2/treetrack/discussions)
 
 ## 📄 License
 
@@ -213,7 +213,7 @@ This project is licensed under a Proprietary License - see the [LICENSE](LICENSE
 
 **Commercial use requires a separate license agreement.**
 
-For licensing inquiries: [your-email@domain.com]
+For licensing inquiries: [jameskharwood2@gmail.com]
 
 ## 🙏 Acknowledgments
 
