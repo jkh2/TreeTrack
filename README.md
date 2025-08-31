@@ -3,7 +3,7 @@
 A comprehensive, mobile-friendly web application designed specifically for tree service companies to track equipment, manage maintenance schedules, and get AI-powered assistance for equipment management.
 
 ![TreeTrack Pro](https://img.shields.io/badge/TreeTrack-Pro-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Mobile](https://img.shields.io/badge/Mobile-Friendly-orange?style=for-the-badge)
 
 ## ✨ Features
@@ -44,10 +44,14 @@ A comprehensive, mobile-friendly web application designed specifically for tree 
 
 ## 🚀 Getting Started
 
-### Quick Start
+### Personal/Educational Use
 1. Download the `index.html` file
 2. Open it in any modern web browser
 3. Start adding your equipment!
+4. **Note**: Personal and educational use only - see license for details
+
+### Commercial Use
+For commercial use, please contact for licensing: [your-email@domain.com]
 
 ### With AI Features
 1. Get an OpenAI API key from [OpenAI Platform](https://platform.openai.com/)
@@ -145,31 +149,18 @@ Enhance the demo mode responses for specific use cases:
 - **Local Storage**: All equipment data stays on your device
 - **API Key Security**: OpenAI keys stored locally, never transmitted to our servers
 - **No Tracking**: No analytics, cookies, or user tracking
-- **Open Source**: Full code transparency
+- **Proprietary Code**: Source code is proprietary and protected by copyright
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+**Note**: This is a proprietary project. Contributions are by invitation only.
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
+If you're interested in contributing, please:
+1. **Contact** the maintainer for permission
+2. **Sign** a contributor agreement if accepted
+3. **Follow** the established development guidelines
 
-### Development Setup
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/treetrack-pro.git
-
-# Navigate to directory
-cd treetrack-pro
-
-# Open in browser
-open index.html
-```
-
-### Contribution Guidelines
+### Development Guidelines (for authorized contributors)
 - Maintain mobile-first responsive design
 - Follow existing code style and structure
 - Test across different browsers
@@ -218,7 +209,11 @@ open index.html
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a Proprietary License - see the [LICENSE](LICENSE) file for details.
+
+**Commercial use requires a separate license agreement.**
+
+For licensing inquiries: [your-email@domain.com]
 
 ## 🙏 Acknowledgments
 
